@@ -195,7 +195,7 @@ ab-test-outcome-predictor/
 
 ```bash
 # Clone the repository
-git clone https://github.com/the-irritater/ab-test-outcome-predictor.git
+git clone git clone https://github.com/Rutuja1423/ab-test-outcome-predictor.git
 cd ab-test-outcome-predictor
 
 # Install dependencies
