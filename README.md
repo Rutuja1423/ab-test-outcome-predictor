@@ -236,12 +236,10 @@ This project demonstrates that ML can reliably predict A/B test outcomes 9 days 
 
 ## Author
 
-**Rutuja Shinde and Sanman Kadam**
+**Rutuja Shinde**
 Aspiring Data Analyst
 
-- GitHub: [the-irritater](https://github.com/the-irritater)
 - GitHub: [Rutuja1423](https://github.com/Rutuja1423)
-- LinkedIn: [Sanman Kadam](https://www.linkedin.com/in/sanman-kadam-7a4990374/)
 - LinkedIn: [Rutuja Shinde](https://www.linkedin.com/in/rutuja-shinde-bb83b0215/)
 
 ---
